@@ -42,6 +42,11 @@ Archivo que permite gestionar las dependencias.
 > go mod init
 > ```
 
+> ### ▶️ Limpiar dependencias transitivas no utilizadas
+> ```shell
+> go mod tidy
+> ```
+
 ---
 
 ## 3. Go main
